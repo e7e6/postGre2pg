@@ -26,3 +26,10 @@ optional arguments:
   -V, --version    print the script version and exit
 
 ```
+
+# Testimonials
+
+    "Not the tool that we deserved, but the one that we needed."
+
+An anonymous Gothamite
+
