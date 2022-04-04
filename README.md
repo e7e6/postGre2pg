@@ -33,3 +33,6 @@ optional arguments:
 
 An anonymous Gothamite
 
+    "The tool we need !"
+
+[It's really PostgreSQL](https://www.twitter.com/postgre_s)
